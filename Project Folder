@@ -1,0 +1,11 @@
+medicine_reminder_project/
+│
+├── main.py                  # CLI Menu App
+├── gui_app.py               # GUI-based Reminder App
+├── chatbot.py               # Rule-based chatbot (no API)
+├── ocr_reader.py            # OCR using pytesseract
+├── medicine.py              # Core medicine functions (add, read, check expiry, etc.)
+├── requirements.txt         # Python dependencies
+├── README.md                # Project overview and how to run
+├── storage_large.csv        # Data file (you can include an empty one)
+└── sample_prescription.jpg  # (Optional) Demo image for OCR
